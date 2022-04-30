@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Changa+One|Josefin+Sans|Lobster|PT+Sans');
+
+/*
+font-family: 'PT Sans', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Josefin Sans', sans-serif;
+*/
+
+body {
+    font-family: 'PT Sans', sans-serif;
+    background: #90AFC5;
+    color: white;
+    padding-top: 70px;
+}
+
+.navbar-brand {
+    color: white !important;
+    white-space: nowrap;
+}
+
+.nav-lists {
+    color: white !important;
+}
+
+.navbar {
+    background-color: #F98866;
+    font-family: 'Lobster', cursive;
+}
+
+.intro-text {
+    text-align: center;
+}
+
+.header {
+    margin-top: 70px;
+    padding: 20px;
+    margin-bottom: 100px;   
+    font-size: 40px;
+}
+
+#home {
+    padding-top: 178px;
+    margin-top: -178px;
+}
+
+.section {
+    padding-bottom: 25px;
+    padding-top: 70px;
+    margin-top: -70px;
+}
+
+div .rounded {
+    border-radius: 25%;
+    -webkit-border-radius: 25%;
+    -moz-border-radius: 25%;
+}
+
+.section-inner{
+    background-color: #9fa7ac;
+    padding: 30px 30px 30px 30px;
+}
+
+.section-title {
+    font-family: 'Changa One', cursive;
+    margin-top: 10px;
+}
+
+.info .fa {
+    margin-right: 15px;
+    color:white;
+}
+
+.firstone {
+    padding-top: 50px;
+    margin-top: -70px;
+}
+
+.aside-description {
+    font-family: 'Changa One', cursive;
+    font-size: 20px;
+    margin-bottom: 7px;
+    white-space: nowrap;
+}
+
+.footer {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.icon-bar {
+    background-color: white !important;
+}
+.social a{
+    color: white;
+}
